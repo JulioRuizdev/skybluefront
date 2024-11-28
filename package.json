@@ -1,5 +1,5 @@
 {
-  "name": "lakeside-hotel",
+  "name": "skyblue-hotel",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -21,7 +21,8 @@
     "react-date-range": "^1.4.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.11.0",
-    "react-router-dom": "^6.16.0"
+    "react-router-dom": "^6.16.0",
+    "skyblue-hotel": "file:"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
